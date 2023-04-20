@@ -5,6 +5,6 @@ public class Main {
         System.out.println("""
                 X O X
                 O X O
-                X X O""");
+                X X O""");//
     }
 }
